@@ -1,16 +1,22 @@
-## Hi there 👋
+# Rizal 👨‍💻  
+**Data Science Student | Scraping • Sentiment Analysis • Time Series**
 
-<!--
-**afrzlfaiz/afrzlfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a Data Science undergraduate focused on extracting insights from real-world data.  
+Currently exploring how data flows from raw sources into meaningful predictions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Current Focus
+- 🔎 Web Scraping & Data Crawling  
+- 💬 Sentiment Analysis (Social Media & Text Data)  
+- 📈 Time Series Forecasting  
+
+---
+
+## 🛠 Tech Stack
+```bash
+Python • Pandas • NumPy • Scikit-learn  
+MySQL • Data Visualization • Automation
