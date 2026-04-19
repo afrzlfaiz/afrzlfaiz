@@ -84,6 +84,11 @@
 
 If you find my work useful, consider supporting me:
 
-<a href="https://www.Ko-fi.com/afrzlfaiz">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+<p align="center">
+  <a href="https://ko-fi.com/afrzlfaiz">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://saweria.co/afrzlfaiz">
+    <img src="https://img.shields.io/badge/Saweria-FF6B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+</p>
