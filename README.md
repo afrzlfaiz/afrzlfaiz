@@ -26,22 +26,6 @@
 
 ---
 
-<!-- STATS -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=afrzlfaiz&show_icons=true&theme=radical&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrzlfaiz&layout=compact&theme=radical&hide_border=true&title_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrzlfaiz&theme=radical&hide_border=true&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF"/>
-
-</div>
-
----
-
 <!-- SKILLS -->
 ## 🛠️ Tech Stack & Skills
 
@@ -74,11 +58,26 @@
 - 📈 Time series forecasting (financial / sequential data)  
 - ⚙️ Automation & data pipelines  
 
----
 
 <!-- FOOTER -->
 <div align="center">
 
 ✨ *Still building. Still learning. Trying not to break things too often.*
+
+</div>
+
+---
+
+<!-- STATS -->
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=afrzlfaiz&show_icons=true&theme=radical&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrzlfaiz&layout=compact&theme=radical&hide_border=true&title_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrzlfaiz&theme=radical&hide_border=true&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF"/>
 
 </div>
