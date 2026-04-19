@@ -76,8 +76,14 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afrzlfaiz&show_icons=true&theme=radical&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrzlfaiz&layout=compact&theme=radical&hide_border=true&title_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrzlfaiz&theme=radical&hide_border=true&background=0D1117&stroke=38B6FF&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF"/>
-
 </div>
+
+---
+
+## ☕ Support Me
+
+If you find my work useful, consider supporting me:
+
+<a href="https://www.Ko-fi.com/afrzlfaiz">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
