@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B6FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+I'm+Rizal+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;Scraping;Sentiment;Forecasting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B6FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+I'm+Rizal+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;Scraping;Sentiment+Analysis;Forecasting" />
 
   <br/>
 
