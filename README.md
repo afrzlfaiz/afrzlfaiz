@@ -68,18 +68,6 @@
 
 ---
 
-<!-- STATS -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=afrzlfaiz&show_icons=true&theme=radical&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrzlfaiz&layout=compact&theme=radical&hide_border=true&title_color=38B6FF&text_color=FFFFFF&bg_color=0D1117"/>
-
-</div>
-
----
-
 ## ☕ Support Me
 
 If you find my work useful, consider supporting me:
