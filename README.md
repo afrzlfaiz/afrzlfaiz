@@ -1,82 +1,94 @@
-<!-- HEADER -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B6FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+I'm+Rizal+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;Scraping;Sentiment+Analysis;Forecasting" />
+# Hi, I'm Rizal 👋
 
-  <br/>
+### Data Science • AI Builder • Vibe Coder
 
-  > 🎯 *Extracting insights from real-world data • Turning raw data into meaningful predictions*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=38B6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+products;Data+Science+%7C+Machine+Learning;Turning+ideas+into+working+applications;Always+shipping+something+new"/>
 
-  <br/>
+<p>
+Building practical AI products with data, automation, and modern web technologies.
+</p>
 
-  <!-- SOCIAL -->
-  <p>
-    <a href="https://github.com/afrzlfaiz">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com/in/afrzlfaiz">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:afrizalfaiz01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
+<p>
+<a href="https://github.com/afrzlfaiz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/afrzlfaiz">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:afrizalfaiz01@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-<!-- SKILLS -->
-## 🛠️ Tech Stack & Skills
+# 👨‍💻 About Me
 
-<div align="center">
+I'm a **Data Science student** who enjoys turning ideas into real products.
 
-### 🔹 Core Focus
-<img src="https://img.shields.io/badge/Web_Scraping-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentiment_Analysis-4ECDC4?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time_Series-45B7D1?style=flat-square&logo=python&logoColor=white"/>
+Recently I've been spending more time as a **Vibe Coder**—rapidly building AI-powered web applications, validating ideas, and shipping MVPs instead of letting ideas stay in notebooks.
 
-### 🔹 Languages & Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-</div>
+My interests revolve around combining **machine learning, automation, web scraping, and modern web development** to create products that solve real problems.
 
 ---
 
-<!-- CURRENT -->
-## 🚀 Currently Learning & Building
+# 🚀 What I'm Building
 
-- 🔍 Advanced web scraping (dynamic pages, anti-bot handling)  
-- 💬 NLP & sentiment analysis on social media  
-- 📈 Time series forecasting (financial / sequential data)  
-- ⚙️ Automation & data pipelines  
-
-
-<!-- FOOTER -->
-<div align="center">
-
-✨ *Still building. Still learning. Trying not to break things too often.*
-
-</div>
+- 🤖 AI-powered web applications
+- 📊 Data-driven dashboards
+- 🔍 Intelligent web scraping systems
+- 💬 NLP & sentiment analysis tools
+- 📈 Forecasting & predictive analytics
+- ⚡ Automation workflows
+- 🌐 SaaS & experimental web products
 
 ---
 
-## ☕ Support Me
+# 🛠 Tech Stack
 
-If you find my work useful, consider supporting me:
+### Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### AI & Data
+
+- Machine Learning
+- NLP
+- Sentiment Analysis
+- Forecasting
+- Data Visualization
+- Web Scraping
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+# ☕ Support
+
+If you enjoy my projects or find them useful, feel free to support my work.
 
 <p align="center">
-  <a href="https://ko-fi.com/afrzlfaiz">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="https://saweria.co/afrzlfaiz">
-    <img src="https://img.shields.io/badge/Saweria-FF6B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
-  </a>
+<a href="https://ko-fi.com/afrzlfaiz">
+<img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+
+<a href="https://saweria.co/afrzlfaiz">
+<img src="https://img.shields.io/badge/Saweria-FF6B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</a>
 </p>
+
+</div>
